@@ -26,7 +26,5 @@ namespace InventoryProducts.API.Data
             });
         }
     }
-    {
-
-    }
+    
 }
